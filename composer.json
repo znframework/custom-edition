@@ -1,0 +1,22 @@
+{
+    "name": "znframework/custom-edition",
+    "type": "project",
+    "description": "ZN Framework Creator's Edition",
+    "keywords": ["zn","zeroneed"],
+    "homepage": "https://github.com/znframework/custom-edition",
+    "license": "MIT",
+    "authors": 
+    [
+        {
+            "name": "Ozan UYKUN",
+            "email": "ozanbote@gmail.com",
+            "homepage": "http://www.znframework.com",
+            "role": "Developer"
+        }
+    ],
+    "require": 
+    {
+        "php": ">=7.0.0",
+        "znframework/package-zerocore": "5.5.*"
+    }
+}
