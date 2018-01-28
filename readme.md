@@ -8,7 +8,7 @@ This version allows you to create your own directory structure. Using the ZN Fra
 You only need to run the following code for the installation.
 </p>
 
-```php
+```
 composer create-project znframework/custom-edition
 ```
 
