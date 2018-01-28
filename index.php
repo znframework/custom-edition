@@ -32,8 +32,8 @@ require __DIR__ . '/vendor/autoload.php';
 
 ZN\ZN::defines
 ([
+    #'CONTROLLERS_DIR' => '', # Required
     #'MODELS_DIR'      => '',
-    #'CONTROLLERS_DIR' => '',
     #'VIEWS_DIR'       => '',
     #'ROUTES_DIR'      => '',
     #'CONFIG_DIR'      => '',
