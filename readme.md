@@ -6,6 +6,7 @@ This version allows you to create your own directory structure. Using the ZN Fra
 <p>
 For index configuration, open the index.php file. And define the necessary directories.
 </p>
+
 ```php
 ZN\ZN::defines
 ([
