@@ -2,6 +2,16 @@
 <p>
 This version allows you to create your own directory structure. Using the ZN Framework's core, you can build the appropriate code framework by building your own directory.
 </p>
+
+<h3>Installation</h3>
+<p>
+You only need to run the following code for the installation.
+</p>
+
+```php
+composer create-project znframework/custom-edition
+```
+
 <h3>Directory Configuration</h3>
 <p>
 For index configuration, open the index.php file. And define the necessary directories.
