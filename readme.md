@@ -1,3 +1,15 @@
+<p align="center">
+	<img width="800" height="300" src="https://cloud.teslaerp.com/tesla/Application/Resources/Uploads/znframework/gallery/zn/1513284150_zn800.jpg"><br>
+    <a title="copy to clipboard" class="copy_on_clip" data-clipboard-target="#latest_stable_version_markdown">
+        <img class="spinned latest_stable_version_img" src="https://poser.pugx.org/znframework/custom-edition/v/stable" style="display: inline;">
+    </a>
+    <a title="copy to clipboard" class="copy_on_clip" data-clipboard-target="#latest_unstable_version_markdown">
+        <img class="spinned latest_unstable_version_img" src="https://poser.pugx.org/znframework/custom-edition/v/unstable" style="display: inline;">
+    </a>
+    <a title="copy to clipboard" class="copy_on_clip" data-clipboard-target="#license_markdown">
+        <img class="spinned license_img" src="https://poser.pugx.org/znframework/custom-edition/license" style="display: inline;">
+    </a>
+</p>
 <h2>ZN Framework Creator's Edition</h2>
 <p>
 This version allows you to create your own directory structure. Using the ZN Framework's core, you can build the appropriate code framework by building your own directory.
