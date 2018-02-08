@@ -32,7 +32,7 @@ For index configuration, open the index.php file. And define the necessary direc
 ```php
 ZN\ZN::defines
 ([
-    #'CONTROLLERS_DIR' => '', # Required
+    'CONTROLLERS_DIR' => 'controllers/', # Required
     #'MODELS_DIR'      => '',
     #'VIEWS_DIR'       => '',
     #'ROUTES_DIR'      => '',
