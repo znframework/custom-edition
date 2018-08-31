@@ -21,11 +21,7 @@
     },
     "scripts": 
     {
-        "post-install-cmd": ["@docker"],
-        "post-create-project-cmd": ["@docker"],
-        "docker": 
-        [
-            "docker-compose up -d --build znframework"
-        ]
+        "post-install-cmd": ["installation.sh"],
+        "post-create-project-cmd": ["installation.sh"]
     }
 }
