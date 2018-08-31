@@ -18,5 +18,13 @@
     {
         "php": ">=7.0.0",
         "znframework/package-zerocore": "5.9.*"
+    },
+    "scripts": 
+    {
+        "post-install-cmd": ["@docker"],
+        "docker": 
+        [
+            "docker-compose up -d --build znframework"
+        ]
     }
 }
