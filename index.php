@@ -32,22 +32,22 @@ require __DIR__ . '/vendor/autoload.php';
 
 ZN\ZN::defines
 ([
-    #'CONTROLLERS_DIR' => '', # Required
-    #'MODELS_DIR'      => '',
-    #'VIEWS_DIR'       => '',
-    #'ROUTES_DIR'      => '',
-    #'CONFIG_DIR'      => '',
-    #'DATABASES_DIR'   => '',
-    #'STORAGE_DIR'     => '',
-    #'COMMANDS_DIR'    => '',
-    #'LANGUAGES_DIR'   => '',
-    #'LIBRARIES_DIR'   => '',
-    #'AUTOLOAD_DIR'    => '',
-    #'LAYERS_DIR'      => '',
-    #'FILES_DIR'       => '',
-    #'TEMPLATES_DIR'   => '',
-    #'THEMES_DIR'      => '',
-    #'PLUGINS_DIR'     => '',
-    #'UPLOADS_DIR'     => '',
+    'CONTROLLERS_DIR' => '', # Required
+    'MODELS_DIR'      => '',
+    'VIEWS_DIR'       => '',
+    'ROUTES_DIR'      => '',
+    'CONFIG_DIR'      => '',
+    'DATABASES_DIR'   => '',
+    'STORAGE_DIR'     => '',
+    'COMMANDS_DIR'    => '',
+    'LANGUAGES_DIR'   => '',
+    'LIBRARIES_DIR'   => '',
+    'AUTOLOAD_DIR'    => '',
+    'LAYERS_DIR'      => '',
+    'FILES_DIR'       => '',
+    'TEMPLATES_DIR'   => '',
+    'THEMES_DIR'      => '',
+    'PLUGINS_DIR'     => '',
+    'UPLOADS_DIR'     => ''
 
 ])::run('CE');
