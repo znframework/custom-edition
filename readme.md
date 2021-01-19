@@ -1,15 +1,16 @@
 <p align="center">
 	<img src="https://www.znframework.com/Projects/ZNWeb/Resources/Files/logo/gitlogo.png" style="max-width:300px"><br><br>
-    <a title="copy to clipboard" class="copy_on_clip" data-clipboard-target="#latest_stable_version_markdown">
-        <img class="spinned latest_stable_version_img" src="https://poser.pugx.org/znframework/custom-edition/v/stable" style="display: inline;">
-    </a>
-    <a title="copy to clipboard" class="copy_on_clip" data-clipboard-target="#latest_unstable_version_markdown">
-        <img class="spinned latest_unstable_version_img" src="https://poser.pugx.org/znframework/custom-edition/v/unstable" style="display: inline;">
-    </a>
-    <a title="copy to clipboard" class="copy_on_clip" data-clipboard-target="#license_markdown">
-        <img class="spinned license_img" src="https://poser.pugx.org/znframework/custom-edition/license" style="display: inline;">
-    </a>
 </p>
+
+[![License](https://img.shields.io/github/license/znframework/znframework?style=flat-square)](//packagist.org/packages/znframework/custom-edition) 
+[![Latest Stable Version](https://img.shields.io/github/v/release/znframework/custom-edition?style=flat-square)](//packagist.org/packages/znframework/custom-edition) 
+[![Release Date](https://img.shields.io/github/release-date/znframework/fullpack-edition?style=flat-square)](//packagist.org/packages/znframework/custom-edition) 
+[![Language](https://img.shields.io/github/languages/top/znframework/znframework?style=flat-square)](//packagist.org/packages/znframework/custom-edition)
+[![Code Size](https://img.shields.io/github/languages/code-size/znframework/fullpack-edition?style=flat-square)](//packagist.org/packages/znframework/custom-edition) 
+[![Total Lines](https://img.shields.io/tokei/lines/github/znframework/fullpack-edition?style=flat-square)](//packagist.org/packages/znframework/custom-edition) 
+[![Contributors](https://img.shields.io/github/contributors/znframework/custom-edition?style=flat-square)](//packagist.org/packages/znframework/custom-edition) 
+[![Docs](https://img.shields.io/readthedocs/znframework?style=flat-square)](//packagist.org/packages/znframework/znframework) 
+
 <h2>ZN Framework Creator's Edition</h2>
 <p>
 This version allows you to create your own directory structure. Using the ZN Framework's core, you can build the appropriate code framework by building your own directory.
