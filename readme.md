@@ -6,8 +6,6 @@
 [![Latest Stable Version](https://img.shields.io/github/v/release/znframework/custom-edition?style=flat-square)](//packagist.org/packages/znframework/custom-edition) 
 [![Release Date](https://img.shields.io/github/release-date/znframework/fullpack-edition?style=flat-square)](//packagist.org/packages/znframework/custom-edition) 
 [![Code Quality](https://img.shields.io/scrutinizer/quality/g/znframework/znframework?style=flat-square)](//packagist.org/packages/znframework/znframework)
-[![Code Size](https://img.shields.io/github/languages/code-size/znframework/fullpack-edition?style=flat-square)](//packagist.org/packages/znframework/custom-edition) 
-[![Total Lines](https://img.shields.io/tokei/lines/github/znframework/fullpack-edition?style=flat-square)](//packagist.org/packages/znframework/custom-edition) 
 [![Contributors](https://img.shields.io/github/contributors/znframework/custom-edition?style=flat-square)](//packagist.org/packages/znframework/custom-edition) 
 [![Docs](https://img.shields.io/readthedocs/znframework?style=flat-square)](//packagist.org/packages/znframework/znframework) 
 
