@@ -5,10 +5,10 @@
 [![License](https://img.shields.io/github/license/znframework/znframework?style=flat-square)](//packagist.org/packages/znframework/custom-edition) 
 [![Latest Stable Version](https://img.shields.io/github/v/release/znframework/znframework?style=flat-square)](//packagist.org/packages/znframework/custom-edition) 
 [![Release Date](https://img.shields.io/github/release-date/znframework/fullpack-edition?style=flat-square)](//packagist.org/packages/znframework/custom-edition) 
-[![Code Quality](https://img.shields.io/scrutinizer/quality/g/znframework/znframework?style=flat-square)](//packagist.org/packages/znframework/custom-edition)
-[![Build](https://img.shields.io/scrutinizer/build/g/znframework/znframework/develop?style=flat-square)](//packagist.org/packages/znframework/custom-edition) 
+[![Code Quality](https://img.shields.io/scrutinizer/quality/g/znframework/znframework?style=flat-square)](https://scrutinizer-ci.com/g/znframework/znframework/)
+[![Build](https://img.shields.io/scrutinizer/build/g/znframework/znframework/develop?style=flat-square)](https://scrutinizer-ci.com/g/znframework/znframework/inspections/bec37c75-82a1-4e69-8c52-635bf1c6457b/log) 
 [![Checks](https://img.shields.io/github/checks-status/znframework/znframework/develop?style=flat-square)](//packagist.org/packages/znframework/custom-edition) 
-[![Docs](https://img.shields.io/readthedocs/znframework?style=flat-square)](//packagist.org/packages/znframework/custom-edition) 
+[![Docs](https://img.shields.io/readthedocs/znframework?style=flat-square)](https://docs.znframework.com) 
 [![Contributors](https://img.shields.io/github/contributors/znframework/custom-edition?style=flat-square)](//packagist.org/packages/znframework/custom-edition) 
 
 <h2>ZN Framework Creator's Edition</h2>
