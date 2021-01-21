@@ -37,11 +37,11 @@ ZN\ZN::defines
     'MODELS_DIR'      => '',
     'VIEWS_DIR'       => '',
     'ROUTES_DIR'      => '',
-    'CONFIG_DIR'      => 'settings/', # Its use is not mandatory, but we recommend it.
+    'CONFIG_DIR'      => 'default/settings/',  # Its use is not mandatory, but we recommend it.
     'DATABASES_DIR'   => '',
     'STORAGE_DIR'     => '',
     'COMMANDS_DIR'    => '',
-    'LANGUAGES_DIR'   => '',
+    'LANGUAGES_DIR'   => 'default/languages/', # Its use is not mandatory, but we recommend it.
     'LIBRARIES_DIR'   => '',
     'AUTOLOAD_DIR'    => '',
     'LAYERS_DIR'      => '',
