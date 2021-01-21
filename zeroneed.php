@@ -33,7 +33,7 @@ require __DIR__ . '/vendor/autoload.php';
 ZN\ZN::defines
 ([
     'BUTCHERY_DIR'    => '',
-    'CONTROLLERS_DIR' => '', # Required
+    'CONTROLLERS_DIR' => '/', # [required] default base directory.
     'MODELS_DIR'      => '',
     'VIEWS_DIR'       => '',
     'ROUTES_DIR'      => '',
