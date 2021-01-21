@@ -37,7 +37,7 @@ ZN\ZN::defines
     'MODELS_DIR'      => '',
     'VIEWS_DIR'       => '',
     'ROUTES_DIR'      => '',
-    'CONFIG_DIR'      => '',
+    'CONFIG_DIR'      => 'settings/', # Its use is not mandatory, but we recommend it.
     'DATABASES_DIR'   => '',
     'STORAGE_DIR'     => '',
     'COMMANDS_DIR'    => '',
