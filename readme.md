@@ -27,7 +27,7 @@ composer create-project znframework/custom-edition
 
 <h3>Directory Configuration</h3>
 <p>
-For index configuration, open the index.php file. And define the necessary directories. Do you not forget to add a slash (/) at the end of the path information!
+For index configuration, open the zeroneed.php file. And define the necessary directories. Do you not forget to add a slash (/) at the end of the path information!
 </p>
 
 ```php
