@@ -30,10 +30,7 @@
         'allow'     => [],
         'disallow'  =>
         [
-            '/External/',
-            '/Internal/',
-            '/Projects/',
-            '/Settings/'
+            '/config/'
         ]
     ]
 ];
