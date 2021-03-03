@@ -44,7 +44,6 @@ ZN\ZN::defines
     'LANGUAGES_DIR'   => '', 
     'LIBRARIES_DIR'   => '',
     'AUTOLOAD_DIR'    => '',
-    'LAYERS_DIR'      => '',
     'FILES_DIR'       => '',
     'TEMPLATES_DIR'   => '',
     'THEMES_DIR'      => '',
